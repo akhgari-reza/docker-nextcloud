@@ -9,9 +9,9 @@ functionality similar to Dropbox, Office 365 or Google Drive when used with inte
 Online or OnlyOffice. It can be hosted in the cloud or on-premises.
 
 ## Excersie: Nextcloud and Docker
-Create a network named nextcloud_network; \n
-In an empty directory create `docker-compose.yml` file; \n
-Your compose should contain four services as below: \n
+Create a network named nextcloud_network; \
+In an empty directory create `docker-compose.yml` file; \
+Your compose should contain four services as below: 
  - Nginx reverse proxy
  - Let's encrypt
  - MariaDB
